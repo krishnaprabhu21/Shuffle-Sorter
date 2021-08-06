@@ -90,7 +90,7 @@ footer {
   }
 }
 
-@media only screen and (max-width: 517px) {
+@media only screen and (max-width: 375px) {
   body {
     background: #ffffff;
   }
